@@ -25,7 +25,7 @@ core:
     iface: "access"
     mode: af_packet		# Options: af_packet or dpdk
   amf:
-    ip: "10.76.28.113"
+    ip: "10.176.26.121"
 
 gnbsim:
   docker:
